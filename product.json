@@ -1,0 +1,488 @@
+[
+    {
+        "result": {
+            "aeop_ae_product_propertys": {
+                "aeop_ae_product_property": [
+                    {
+                        "attr_name": "Brand Name",
+                        "attr_name_id": "2",
+                        "attr_value": "None",
+                        "attr_value_id": "201512802"
+                    },
+                    {
+                        "attr_name": "Metals Type",
+                        "attr_name_id": "100005859",
+                        "attr_value": "Titanium",
+                        "attr_value_id": "503"
+                    },
+                    {
+                        "attr_name": "Gender",
+                        "attr_name_id": "284",
+                        "attr_value": "Men",
+                        "attr_value_id": "100006038"
+                    },
+                    {
+                        "attr_name": "Material",
+                        "attr_name_id": "10",
+                        "attr_value": "Metal",
+                        "attr_value_id": "398"
+                    },
+                    {
+                        "attr_name": "Style",
+                        "attr_name_id": "326",
+                        "attr_value": "Classic",
+                        "attr_value_id": "100013307"
+                    },
+                    {
+                        "attr_name": "Rings Type",
+                        "attr_name_id": "20257",
+                        "attr_value": "Wedding Bands",
+                        "attr_value_id": "200001891"
+                    },
+                    {
+                        "attr_name": "Surface Width",
+                        "attr_name_id": "200009206",
+                        "attr_value": "6mm",
+                        "attr_value_id": "1454"
+                    },
+                    {
+                        "attr_name": "Occasion",
+                        "attr_name_id": "1186",
+                        "attr_value": "Wedding",
+                        "attr_value_id": "1750"
+                    }
+                ]
+            },
+            "aeop_ae_product_s_k_us": {
+                "aeop_ae_product_sku": [
+                    {
+                        "aeop_s_k_u_propertys": {
+                            "aeop_sku_property": [
+                                {
+                                    "property_value_definition_name": "8",
+                                    "property_value_id_long": "151",
+                                    "sku_property_id": "200000369",
+                                    "sku_property_name": "Ring Size",
+                                    "sku_property_value": "2"
+                                },
+                                {
+                                    "property_value_id_long": "201447815",
+                                    "sku_property_id": "200001034",
+                                    "sku_property_name": "Metal Color",
+                                    "sku_property_value": "Steel color"
+                                }
+                            ]
+                        },
+                        "currency_code": "USD",
+                        "id": "200000369:151#8;200001034:201447815",
+                        "ipm_sku_stock": "999",
+                        "offer_sale_price": "2.15",
+                        "s_k_u_available_stock": "999",
+                        "sku_code": "XP-2420-8-Steel Color",
+                        "sku_price": "4.99",
+                        "sku_stock": "true"
+                    },
+                    {
+                        "aeop_s_k_u_propertys": {
+                            "aeop_sku_property": [
+                                {
+                                    "property_value_definition_name": "9",
+                                    "property_value_id_long": "152",
+                                    "sku_property_id": "200000369",
+                                    "sku_property_name": "Ring Size",
+                                    "sku_property_value": "3"
+                                },
+                                {
+                                    "property_value_id_long": "201447815",
+                                    "sku_property_id": "200001034",
+                                    "sku_property_name": "Metal Color",
+                                    "sku_property_value": "Steel color"
+                                }
+                            ]
+                        },
+                        "currency_code": "USD",
+                        "id": "200000369:152#9;200001034:201447815",
+                        "ipm_sku_stock": "999",
+                        "offer_sale_price": "2.15",
+                        "s_k_u_available_stock": "999",
+                        "sku_code": "XP-2420-9-Steel Color",
+                        "sku_price": "4.99",
+                        "sku_stock": "true"
+                    },
+                    {
+                        "aeop_s_k_u_propertys": {
+                            "aeop_sku_property": [
+                                {
+                                    "property_value_definition_name": "10",
+                                    "property_value_id_long": "200000284",
+                                    "sku_property_id": "200000369",
+                                    "sku_property_name": "Ring Size",
+                                    "sku_property_value": "3.5"
+                                },
+                                {
+                                    "property_value_id_long": "201447815",
+                                    "sku_property_id": "200001034",
+                                    "sku_property_name": "Metal Color",
+                                    "sku_property_value": "Steel color"
+                                }
+                            ]
+                        },
+                        "currency_code": "USD",
+                        "id": "200000369:200000284#10;200001034:201447815",
+                        "ipm_sku_stock": "999",
+                        "offer_sale_price": "2.15",
+                        "s_k_u_available_stock": "999",
+                        "sku_code": "XP-2420-10-Steel Color",
+                        "sku_price": "4.99",
+                        "sku_stock": "true"
+                    },
+                    {
+                        "aeop_s_k_u_propertys": {
+                            "aeop_sku_property": [
+                                {
+                                    "property_value_definition_name": "11",
+                                    "property_value_id_long": "200001525",
+                                    "sku_property_id": "200000369",
+                                    "sku_property_name": "Ring Size",
+                                    "sku_property_value": "Less than 4"
+                                },
+                                {
+                                    "property_value_id_long": "201447815",
+                                    "sku_property_id": "200001034",
+                                    "sku_property_name": "Metal Color",
+                                    "sku_property_value": "Steel color"
+                                }
+                            ]
+                        },
+                        "currency_code": "USD",
+                        "id": "200000369:200001525#11;200001034:201447815",
+                        "ipm_sku_stock": "999",
+                        "offer_sale_price": "2.15",
+                        "s_k_u_available_stock": "999",
+                        "sku_code": "XP-2420-11-Steel Color",
+                        "sku_price": "4.99",
+                        "sku_stock": "true"
+                    },
+                    {
+                        "aeop_s_k_u_propertys": {
+                            "aeop_sku_property": [
+                                {
+                                    "property_value_definition_name": "12",
+                                    "property_value_id_long": "153",
+                                    "sku_property_id": "200000369",
+                                    "sku_property_name": "Ring Size",
+                                    "sku_property_value": "4"
+                                },
+                                {
+                                    "property_value_id_long": "201447815",
+                                    "sku_property_id": "200001034",
+                                    "sku_property_name": "Metal Color",
+                                    "sku_property_value": "Steel color"
+                                }
+                            ]
+                        },
+                        "currency_code": "USD",
+                        "id": "200000369:153#12;200001034:201447815",
+                        "ipm_sku_stock": "999",
+                        "offer_sale_price": "2.15",
+                        "s_k_u_available_stock": "999",
+                        "sku_code": "XP-2420-12-Steel Color",
+                        "sku_price": "4.99",
+                        "sku_stock": "true"
+                    },
+                    {
+                        "aeop_s_k_u_propertys": {
+                            "aeop_sku_property": [
+                                {
+                                    "property_value_definition_name": "7",
+                                    "property_value_id_long": "100010424",
+                                    "sku_property_id": "200000369",
+                                    "sku_property_name": "Ring Size",
+                                    "sku_property_value": "25"
+                                },
+                                {
+                                    "property_value_id_long": "201447815",
+                                    "sku_property_id": "200001034",
+                                    "sku_property_name": "Metal Color",
+                                    "sku_property_value": "Steel color"
+                                }
+                            ]
+                        },
+                        "currency_code": "USD",
+                        "id": "200000369:100010424#7;200001034:201447815",
+                        "ipm_sku_stock": "999",
+                        "offer_sale_price": "2.15",
+                        "s_k_u_available_stock": "999",
+                        "sku_code": "XP-2420-7-Steel Color",
+                        "sku_price": "4.99",
+                        "sku_stock": "true"
+                    }
+                ]
+            },
+            "avg_evaluation_rating": "0.0",
+            "category_id": "100007323",
+            "currency_code": "USD",
+            "delivery_time": "7",
+            "detail": "hello this is detail 1",
+            "evaluation_count": "0",
+            "gmt_create": "2020-08-08 23:21:19",
+            "gmt_modified": "2020-08-10 04:51:54",
+            "gross_weight": "0.020",
+            "image_u_r_ls": "https://picsum.photos/seed/picsum/200/300.jpg;https://picsum.photos/seed/picsum/200/300.jpg;https://picsum.photos/seed/picsum/200/300.jpg",
+            "item_offer_site_sale_price": "2.15",
+            "order_count": "0",
+            "owner_member_id": "cn1532485275hjvd",
+            "package_height": "1",
+            "package_length": "11",
+            "package_type": "false",
+            "package_width": "11",
+            "product_id": "4001324155016",
+            "product_status_type": "onSelling",
+            "product_unit": "100000015",
+            "store_info": {
+                "communication_rating": "4.1",
+                "item_as_descriped_rating": "4.2",
+                "shipping_speed_rating": "4.2",
+                "store_id": "5840312",
+                "store_name": "Shop5840312 Store"
+            },
+            "subject": "Classic Men's Wedding Ring Fashion Simple Zircon Cocktail Party Ring Anniversary Engagement Jewelry Men Accessories",
+            "total_available_stock": "5994",
+            "ws_valid_num": "30"
+        },
+        "request_id": "102i0lany4scv"
+    },
+    {
+        "result": {
+            "aeop_ae_product_propertys": {
+                "aeop_ae_product_property": [
+                    {
+                        "attr_name": "Brand Name",
+                        "attr_name_id": "2",
+                        "attr_value": "None",
+                        "attr_value_id": "201512802"
+                    },
+                    {
+                        "attr_name": "Movement",
+                        "attr_name_id": "581",
+                        "attr_value": "QUARTZ",
+                        "attr_value_id": "1568"
+                    },
+                    {
+                        "attr_name": "Clasp Type",
+                        "attr_name_id": "200000053",
+                        "attr_value": "Bracelet Clasp",
+                        "attr_value_id": "200000081"
+                    },
+                    {
+                        "attr_name": "Case Material",
+                        "attr_name_id": "20280",
+                        "attr_value": "Wooden",
+                        "attr_value_id": "350856"
+                    },
+                    {
+                        "attr_name": "Water Resistance Depth",
+                        "attr_name_id": "200000057",
+                        "attr_value": "3Bar",
+                        "attr_value_id": "201564810"
+                    },
+                    {
+                        "attr_name": "Style",
+                        "attr_name_id": "326",
+                        "attr_value": "Fashion & Casual",
+                        "attr_value_id": "200004494"
+                    },
+                    {
+                        "attr_name": "Band Width",
+                        "attr_name_id": "200000051",
+                        "attr_value": "16mm",
+                        "attr_value_id": "-1",
+                        "attr_value_unit": "mm"
+                    },
+                    {
+                        "attr_name": "Case Shape",
+                        "attr_name_id": "200000047",
+                        "attr_value": "ROUND",
+                        "attr_value_id": "353"
+                    },
+                    {
+                        "attr_name": "Case Thickness",
+                        "attr_name_id": "200009205",
+                        "attr_value": "8mm",
+                        "attr_value_id": "-1",
+                        "attr_value_unit": "mm"
+                    },
+                    {
+                        "attr_name": "Feature",
+                        "attr_name_id": "217",
+                        "attr_value": "Shock Resistant",
+                        "attr_value_id": "200003420"
+                    },
+                    {
+                        "attr_name": "Feature",
+                        "attr_name_id": "217",
+                        "attr_value": "Diver",
+                        "attr_value_id": "361691"
+                    },
+                    {
+                        "attr_name": "Feature",
+                        "attr_name_id": "217",
+                        "attr_value": "Water Resistant",
+                        "attr_value_id": "361699"
+                    },
+                    {
+                        "attr_name": "Feature",
+                        "attr_name_id": "217",
+                        "attr_value": "Swim",
+                        "attr_value_id": "200001706"
+                    },
+                    {
+                        "attr_name": "Dial Window Material Type",
+                        "attr_name_id": "200000041",
+                        "attr_value": "Hardlex",
+                        "attr_value_id": "200000062"
+                    },
+                    {
+                        "attr_name": "Model Number",
+                        "attr_name_id": "3",
+                        "attr_value": "women watch",
+                        "attr_value_id": "-1"
+                    },
+                    {
+                        "attr_name": "Band Length",
+                        "attr_name_id": "200000052",
+                        "attr_value": "21cm",
+                        "attr_value_id": "-1",
+                        "attr_value_unit": "cm"
+                    },
+                    {
+                        "attr_name": "Boxes & Cases Material",
+                        "attr_name_id": "100005870",
+                        "attr_value": "No package",
+                        "attr_value_id": "201445137"
+                    },
+                    {
+                        "attr_name": "Band Material Type",
+                        "attr_name_id": "200000050",
+                        "attr_value": "Wooden",
+                        "attr_value_id": "350856"
+                    },
+                    {
+                        "attr_name": "Dial Diameter",
+                        "attr_name_id": "200000046",
+                        "attr_value": "34mm",
+                        "attr_value_id": "-1",
+                        "attr_value_unit": "mm"
+                    },
+                    {
+                        "attr_name": "Features",
+                        "attr_name_id": "-1",
+                        "attr_value": "women watch Women's watch watches women"
+                    },
+                    {
+                        "attr_name": "Features 1",
+                        "attr_name_id": "-1",
+                        "attr_value": "watches for women watch woman"
+                    },
+                    {
+                        "attr_name": "Features 2",
+                        "attr_name_id": "-1",
+                        "attr_value": "watch for women"
+                    },
+                    {
+                        "attr_name": "Features 3",
+                        "attr_name_id": "-1",
+                        "attr_value": "gift gifts"
+                    },
+                    {
+                        "attr_name": "Features 4",
+                        "attr_name_id": "-1",
+                        "attr_value": "ladies watch"
+                    },
+                    {
+                        "attr_name": "Features 5",
+                        "attr_name_id": "-1",
+                        "attr_value": "quartz wristwatches"
+                    },
+                    {
+                        "attr_name": "Features 6",
+                        "attr_name_id": "-1",
+                        "attr_value": "luxury wrist watch"
+                    },
+                    {
+                        "attr_name": "Features 7",
+                        "attr_name_id": "-1",
+                        "attr_value": "womens watch"
+                    },
+                    {
+                        "attr_name": "Features 8",
+                        "attr_name_id": "-1",
+                        "attr_value": "wrist watches for women"
+                    },
+                    {
+                        "attr_name": "Features 9",
+                        "attr_name_id": "-1",
+                        "attr_value": "dress"
+                    }
+                ]
+            },
+            "aeop_ae_product_s_k_us": {
+                "aeop_ae_product_sku": {
+                    "aeop_s_k_u_propertys": {
+                        "aeop_sku_property": {
+                            "property_value_id_long": "193",
+                            "sku_image": "http://ae01.alicdn.com/kf/H94e6ba2bf64c4b5583151e24a2bac1f4t.jpg",
+                            "sku_property_id": "14",
+                            "sku_property_name": "Color",
+                            "sku_property_value": "Black"
+                        }
+                    },
+                    "currency_code": "USD",
+                    "id": "14:193",
+                    "ipm_sku_stock": "500",
+                    "offer_bulk_sale_price": "25.24",
+                    "offer_sale_price": "25.50",
+                    "s_k_u_available_stock": "500",
+                    "sku_bulk_order": "10",
+                    "sku_code": "SJ11448",
+                    "sku_price": "51.00",
+                    "sku_stock": "true"
+                }
+            },
+            "aeop_national_quote_configuration": {
+                "configuration_data": "[{\"absoluteQuoteMap\":{\"14:193\":47.0},\"shiptoCountry\":\"DE\"},{\"absoluteQuoteMap\":{\"14:193\":45.0},\"shiptoCountry\":\"RU\"},{\"absoluteQuoteMap\":{\"14:193\":50.0},\"shiptoCountry\":\"PT\"},{\"absoluteQuoteMap\":{\"14:193\":46.0},\"shiptoCountry\":\"JP\"},{\"absoluteQuoteMap\":{\"14:193\":44.0},\"shiptoCountry\":\"FR\"},{\"absoluteQuoteMap\":{\"14:193\":49.0},\"shiptoCountry\":\"UA\"},{\"absoluteQuoteMap\":{\"14:193\":49.0},\"shiptoCountry\":\"SA\"},{\"absoluteQuoteMap\":{\"14:193\":52.0},\"shiptoCountry\":\"BR\"},{\"absoluteQuoteMap\":{\"14:193\":42.0},\"shiptoCountry\":\"SG\"},{\"absoluteQuoteMap\":{\"14:193\":46.0},\"shiptoCountry\":\"UK\"},{\"absoluteQuoteMap\":{\"14:193\":51.0},\"shiptoCountry\":\"BY\"},{\"absoluteQuoteMap\":{\"14:193\":44.0},\"shiptoCountry\":\"ID\"},{\"absoluteQuoteMap\":{\"14:193\":51.0},\"shiptoCountry\":\"US\"},{\"absoluteQuoteMap\":{\"14:193\":54.0},\"shiptoCountry\":\"CA\"},{\"absoluteQuoteMap\":{\"14:193\":47.0},\"shiptoCountry\":\"IL\"},{\"absoluteQuoteMap\":{\"14:193\":49.0},\"shiptoCountry\":\"AE\"},{\"absoluteQuoteMap\":{\"14:193\":42.0},\"shiptoCountry\":\"KR\"},{\"absoluteQuoteMap\":{\"14:193\":52.0},\"shiptoCountry\":\"CL\"},{\"absoluteQuoteMap\":{\"14:193\":48.0},\"shiptoCountry\":\"IT\"},{\"absoluteQuoteMap\":{\"14:193\":45.0},\"shiptoCountry\":\"MY\"},{\"absoluteQuoteMap\":{\"14:193\":44.0},\"shiptoCountry\":\"ES\"},{\"absoluteQuoteMap\":{\"14:193\":48.0},\"shiptoCountry\":\"AU\"},{\"absoluteQuoteMap\":{\"14:193\":44.0},\"shiptoCountry\":\"TH\"},{\"absoluteQuoteMap\":{\"14:193\":48.0},\"shiptoCountry\":\"PH\"},{\"absoluteQuoteMap\":{\"14:193\":44.0},\"shiptoCountry\":\"VN\"},{\"absoluteQuoteMap\":{\"14:193\":44.0},\"shiptoCountry\":\"PL\"},{\"absoluteQuoteMap\":{\"14:193\":46.0},\"shiptoCountry\":\"NL\"},{\"absoluteQuoteMap\":{\"14:193\":50.0},\"shiptoCountry\":\"TR\"}]",
+                "configuration_type": "absolute"
+            },
+            "avg_evaluation_rating": "0.0",
+            "category_id": "200363144",
+            "currency_code": "USD",
+            "delivery_time": "5",
+            "detail": "This is detail 2",
+            "evaluation_count": "0",
+            "gmt_create": "2020-07-24 21:28:08",
+            "gmt_modified": "2020-08-07 21:12:19",
+            "gross_weight": "0.149",
+            "image_u_r_ls": "https://picsum.photos/seed/picsum/200/300.jpg;https://picsum.photos/seed/picsum/200/300.jpg;https://picsum.photos/seed/picsum/200/300.jpg",
+            "item_offer_site_sale_price": "25.50",
+            "mobile_detail": "{\"mobileDetail\":[{\"col\":1,\"images\":[{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/H37db72135cae47b28c5c62559fa787c8s.jpg\",\"width\":1000},{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/Hf8ed8e746ac246f4a323a521eba160afn.jpg\",\"width\":1000},{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/H3a9dc5d393bc40d4a1e99d8d1ff27bafd.jpg\",\"width\":1000},{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/H6e3be104c72f4e03a1a40965a5f1ea33Y.jpg\",\"width\":1000},{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/H558f2806a65548509b9d1caac733cae6z.jpg\",\"width\":1000},{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/H2a12085471c34057abe280204ce2d6cag.jpg\",\"width\":1000},{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/Hc80a32dc34e24990b64f8fe4f96dd847z.jpg\",\"width\":1000},{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/Hb4633d5175e6497aaf069650e6cbb96an.jpg\",\"width\":1000},{\"height\":1000,\"imgUrl\":\"//ae01.alicdn.com/kf/H521cf2329d8b468f874886591d4b7e09m.jpg\",\"width\":1000},{\"height\":666,\"imgUrl\":\"//ae01.alicdn.com/kf/H15d1cc7c9d94497e966c38610aba2103s.jpg\",\"width\":1000}],\"type\":\"image\"},{\"content\":\"часы женские часы watch часы женские наручные женские часы zegarek damski reloj mujer montre femme relogio feminino relogio watches for women watch for women relojes para mujer watches women watches relógio часы наручные женские relojes relógio feminino часы наручные montre zegarki damskie часы женские брендовые watch women ساعات نسائية relogios feminino reloj de mujer woman watch gift ladies watch quartz wristwatches часы для женщин 시계 horloges vrouwen watches women наручные часы ساعات relógios relojes mujer часы женские большие luxury dames horloges wrist watch wrist watches for women gifts dress  horloges saat bayan clock sport  gold vestidos luxury brand wristwatch\",\"type\":\"text\"}],\"version\":\"1.0\",\"versionNum\":1}",
+            "order_count": "0",
+            "owner_member_id": "cn1533180489jejk",
+            "package_height": "7",
+            "package_length": "10",
+            "package_type": "false",
+            "package_width": "8",
+            "product_id": "4001276763678",
+            "product_price": "51.00",
+            "product_status_type": "onSelling",
+            "product_unit": "100000015",
+            "store_info": {
+                "store_id": "5875651",
+                "store_name": "SHOWTIME Store"
+            },
+            "subject": "watches for women quartz wristwatches ladies watch ebony brand luxury clock waterproof wooden wood watch women dropshipping 2020",
+            "total_available_stock": "500",
+            "ws_valid_num": "30"
+        },
+        "request_id": "pdedkpux8tzy"
+    }
+]
